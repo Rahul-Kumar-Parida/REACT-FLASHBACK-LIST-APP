@@ -1,0 +1,24 @@
+.Navbar {
+  background-color: rgb(151, 247, 212);
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+.FlashBackH1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.CreateBtn {
+  width: 7rem;
+  height: 3rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+
+  background-color: rgb(0, 255, 85);
+  border: 2px solid rgb(34, 56, 59);
+  border-radius: 15px;
+}
+
+.CreateBtn:hover{
+    background-color: rgb(109, 241, 116);
+
+}
